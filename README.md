@@ -1,92 +1,20 @@
 <p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
-  </a>
+  <img src="docs/banner/unwind_black.png" width="900px" alt="Amazing LLM Apps">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/dandaakhilreddy/">
+    <img src="https://img.shields.io/badge/-Akhil%20Reddy-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
 </p>
 
 <hr/>
 
-# 🌟 Awesome LLM Apps
+# Amazing LLM Apps
+
+> **Attribution**: Based on [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) by [Shubham Saboo](https://github.com/Shubhamsaboo), Apache 2.0.
 
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from <img src="https://cdn.jsdelivr.net/npm/simple-icons@15/icons/openai.svg"  alt="openai logo" width="25" height="15">**OpenAI** , <img src="https://cdn.simpleicons.org/anthropic"  alt="anthropic logo" width="25" height="15">**Anthropic**, <img src="https://cdn.simpleicons.org/googlegemini"  alt="google logo" width="25" height="18">**Google**, <img src="https://cdn.simpleicons.org/x"  alt="X logo" width="25" height="15">**xAI** and open-source models like <img src="https://cdn.simpleicons.org/alibabacloud"  alt="alibaba logo" width="25" height="15">**Qwen** or  <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15">**Llama** that you can run locally on your computer.
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
-  </a>
-</p>
-
-## 🤔 Why Awesome LLM Apps?
-
-- 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
-- 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
-- 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
-
-## 🙏 Thanks to our sponsors
-
-<table align="center" cellpadding="16" cellspacing="12">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tinyfish-io/tinyfish-cookbook" target="_blank" rel="noopener" title="TinyFish">
-        <img src="docs/banner/sponsors/tinyfish.png" alt="TinyFish" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/tinyfish-io/tinyfish-cookbook" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        TinyFish
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" title="Tiger Data">
-        <img src="docs/banner/sponsors/tigerdata.png" alt="Tiger Data" width="500">
-      </a>
-      <br>
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Tiger Data MCP
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" title="Speechmatics">
-        <img src="docs/banner/sponsors/speechmatics.png" alt="Speechmatics" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Speechmatics
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
-      </a>
-      <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Become a Sponsor
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📂 Featured AI Projects
 
@@ -186,7 +114,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [🩺 RAG Failure Diagnostics Clinic](rag_tutorials/rag_failure_diagnostics_clinic/)
 *   [🕸️ Knowledge Graph RAG with Citations](rag_tutorials/knowledge_graph_rag_citations/)
 
-
 ### 💾 LLM Apps with Memory Tutorials
 
 *   [💾 AI ArXiv Agent with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/ai_arxiv_agent_memory/)
@@ -195,7 +122,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [📝 LLM App with Personalized Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/llm_app_personalized_memory/)
 *   [🗄️ Local ChatGPT Clone with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/local_chatgpt_with_memory/)
 *   [🧠 Multi-LLM Application with Shared Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/multi_llm_memory/)
-
 
 ### 💬 Chat with X Tutorials
 
@@ -215,7 +141,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 * <img src="https://cdn.simpleicons.org/google"  alt="google logo" width="20" height="15"> [Gemma 3 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/)
 * <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15"> [Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
-
 
 ### 🧑‍🏫 AI Agent Framework Crash Course
 
@@ -238,13 +163,13 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
+    git clone https://github.com/DandaAkhilReddy/Amazing_LLM_Apps.git 
     ```
 
 2. **Navigate to the desired project directory**
 
     ```bash 
-    cd awesome-llm-apps/starter_ai_agents/ai_travel_agent
+    cd Amazing_LLM_Apps/starter_ai_agents/ai_travel_agent
     ```
 
 3. **Install the required dependencies**
@@ -255,9 +180,5 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
 
-
 ### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
-
-🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
